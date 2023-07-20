@@ -11,7 +11,6 @@ from selene.support.shared.jquery_style import s
 @allure.label('owner', 'shandrokha')
 @allure.story('Repository search')
 @allure.link('https://github.com', name='Testing')
-
 def test_github():
     with allure.step("Open main page"):
         browser.open("https://github.com")

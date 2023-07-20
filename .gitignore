@@ -1,5 +1,5 @@
-/venv
-../.idea
-/allure-2.22.4
-/allure-results
-.pytest_cache
+venv
+.idea
+allure-2.22.4
+tests/allure-results
+tests/.pytest_cache
